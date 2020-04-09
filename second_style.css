@@ -1,0 +1,28 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #9C9C9C url(img/work1-assets/body-gray.jpg);
+	background-size: cover;
+	font-family: 'Arial', sans-serif;
+	}
+.container{
+ margin: 0 auto;
+ width:1350px; 
+ min-height:600px;
+ border:5px solid black;
+ background: #000;
+ background-size: cover;
+ box-sizing: border-box;
+ padding:30px;
+}
+p{
+	color: white;
+}
+h2{
+	color: yellow;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+span{
+	color: #29F800;
+}
